@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket post-install configuration includes setting up email integration for ticket notifications, defining Service Level Agreements (SLAs) to manage response times, and customizing help topics for ticket categorization. Departments are created to route tickets to the right teams, while user roles and permissions are configured to control access. The ticket form is tailored with additional fields, and auto-responses are set up for acknowledgment. Security settings are adjusted to enforce password policies, CAPTCHA, and access controls for enhanced protection.
 </p>
 
 ![Screenshot 2025-02-25 at 12 04 58 PM](https://github.com/user-attachments/assets/9359e587-2986-4660-82b5-0f5df032dcf8)
